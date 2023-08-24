@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/abhimanyu120/Fitness/static/css/main.073c9b0a.css",
-    "main.js": "/abhimanyu120/Fitness/static/js/main.2423baed.js",
-    "static/js/787.ec6b3678.chunk.js": "/abhimanyu120/Fitness/static/js/787.ec6b3678.chunk.js",
-    "static/media/logo.svg": "/abhimanyu120/Fitness/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/abhimanyu120/Fitness/index.html",
-    "main.073c9b0a.css.map": "/abhimanyu120/Fitness/static/css/main.073c9b0a.css.map",
-    "main.2423baed.js.map": "/abhimanyu120/Fitness/static/js/main.2423baed.js.map",
-    "787.ec6b3678.chunk.js.map": "/abhimanyu120/Fitness/static/js/787.ec6b3678.chunk.js.map"
+    "main.css": "/Fitness/static/css/main.073c9b0a.css",
+    "main.js": "/Fitness/static/js/main.6402709f.js",
+    "static/js/787.ec6b3678.chunk.js": "/Fitness/static/js/787.ec6b3678.chunk.js",
+    "static/media/logo.svg": "/Fitness/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Fitness/index.html",
+    "main.073c9b0a.css.map": "/Fitness/static/css/main.073c9b0a.css.map",
+    "main.6402709f.js.map": "/Fitness/static/js/main.6402709f.js.map",
+    "787.ec6b3678.chunk.js.map": "/Fitness/static/js/787.ec6b3678.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.2423baed.js"
+    "static/js/main.6402709f.js"
   ]
 }
