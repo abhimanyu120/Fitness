@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Fitness/static/css/main.073c9b0a.css",
-    "main.js": "/Fitness/static/js/main.6402709f.js",
+    "main.css": "/Fitness/static/css/main.091a4f50.css",
+    "main.js": "/Fitness/static/js/main.9aa62ee0.js",
     "static/js/787.ec6b3678.chunk.js": "/Fitness/static/js/787.ec6b3678.chunk.js",
-    "static/media/logo.svg": "/Fitness/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/homeImage.avif": "/Fitness/static/media/homeImage.1559b007535d41aedcea.avif",
     "index.html": "/Fitness/index.html",
-    "main.073c9b0a.css.map": "/Fitness/static/css/main.073c9b0a.css.map",
-    "main.6402709f.js.map": "/Fitness/static/js/main.6402709f.js.map",
+    "main.091a4f50.css.map": "/Fitness/static/css/main.091a4f50.css.map",
+    "main.9aa62ee0.js.map": "/Fitness/static/js/main.9aa62ee0.js.map",
     "787.ec6b3678.chunk.js.map": "/Fitness/static/js/787.ec6b3678.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6402709f.js"
+    "static/css/main.091a4f50.css",
+    "static/js/main.9aa62ee0.js"
   ]
 }
